@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/narayan/Documents/GitHub/play-samples-play-java-hello-world-tutorial/app/controllers/HomeController.java:44:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method getStudentById(int)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0mgetStudentById[0m
